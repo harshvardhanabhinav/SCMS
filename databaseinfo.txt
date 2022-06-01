@@ -1,0 +1,5 @@
+Host name = localhost
+username = root
+password = 
+dbname = supercare_db
+port = 3306 

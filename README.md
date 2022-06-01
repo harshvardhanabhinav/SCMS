@@ -1,1 +1,1 @@
-# SCMS
+# SuperCare-SMS

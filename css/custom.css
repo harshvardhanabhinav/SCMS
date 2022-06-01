@@ -1,0 +1,48 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+/* Make Header Image Responsive */
+.back-image {
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  border-radius: 0px;
+}
+
+.mainHeading {
+  margin-top: 28vh;
+}
+
+/* Header Image Sub-Title */
+.font-italic {
+  font-size: 24px;
+}
+
+a {
+  color: black;
+}
+
+.active {
+  color: white;
+  background-color: #084887;
+}
+
+a:hover {
+  color: #084887;
+}
+
+a:hover {
+  text-decoration: none;
+  background-color: transparent;
+}
+
+/* Setting Margin and Alignment for Welcome to OSM Mobile View */
+@media only screen and (max-width: 600px) {
+  .myclass {
+    margin-top: 30vh;
+    text-align: center;
+  }
+}
